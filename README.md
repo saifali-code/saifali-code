@@ -10,7 +10,7 @@ I specialize in combining **Artificial Intelligence, Full-Stack Development, and
 
 * 🔭 Currently building **AI Automation Systems, AI Agents, SaaS Products, MERN Stack Applications, and Flutter Mobile Apps**
 * 🌱 Continuously learning **Machine Learning, Deep Learning, LLM Applications, AI Agents, Cloud Computing, and System Design**
-* 👯 Open to collaborating on **AI Research, Open-Source Projects, SaaS Platforms, and Innovative Startup Products**
+* 👯 Open to collaborate on **AI Research, Open-Source Projects, SaaS Platforms, and Innovative Startup Products**
 * 💬 Ask me about **AI Automation, AI Chatbots, MERN Stack, Flutter, Full-Stack Development, APIs, and Cloud Technologies**
 * 🎯 Mission: Helping businesses **automate processes, improve efficiency, and transform ideas into intelligent digital products**
 * ⚡ Fun Fact: I enjoy creating **AI-powered products that bridge the gap between cutting-edge technology and real-world applications.**
@@ -19,13 +19,13 @@ I specialize in combining **Artificial Intelligence, Full-Stack Development, and
 
 ## 🛠️ Tech Stack
 
-### **Programming Languages & Frameworks**
+### Programming Languages & Frameworks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,java,cpp,react,nextjs,nodejs,express,mongodb,firebase,flutter,html,css,tailwind,bootstrap" />
 </p>
 
-### **Artificial Intelligence & Automation**
+### Artificial Intelligence & Automation
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
@@ -38,13 +38,13 @@ I specialize in combining **Artificial Intelligence, Full-Stack Development, and
 * 📊 Data Processing & Intelligent Systems
 * ⚡ LLM Applications & AI-Powered Solutions
 
-### **Cloud & DevOps**
+### Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel" />
 </p>
 
-### **Databases & Tools**
+### Databases & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,postman,vscode,figma" />
@@ -55,12 +55,12 @@ I specialize in combining **Artificial Intelligence, Full-Stack Development, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifali-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifali-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saifali-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifali-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=saifali-code&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=saifali-code&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ I specialize in combining **Artificial Intelligence, Full-Stack Development, and
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifali-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saifali-code&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ I specialize in combining **Artificial Intelligence, Full-Stack Development, and
 ## 📈 Activity Graph
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saifali-code&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifali-code&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
