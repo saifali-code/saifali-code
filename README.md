@@ -1,8 +1,8 @@
-# Assalamualaikum Techies 👋
+
 
 ---
 
-<h1 align="center">Hi 👋, I'm Saif Ali</h1>
+<h1 align="center">Asslam o Alaikum 👋, I'm Saif Ali</h1>
 <h3 align="center">
 Software Engineer | Building AI-Powered Mobile & Web Solutions | Full-Stack Developer | AI Automation Specialist | Helping Startups & Businesses Scale, Automate & Grow Faster
 </h3>
