@@ -2,49 +2,78 @@
 
 ---
 
+<h1 align="center">Hi 👋, I'm Saif Ali</h1>
+<h3 align="center">
+Software Engineer | Building AI-Powered Mobile & Web Solutions | Full-Stack Developer | AI Automation Specialist | Helping Startups & Businesses Scale, Automate & Grow Faster
+</h3>
+
+<p align="center">
+  <a href="https://github.com/saifali-code">
+    <img src="https://komarev.com/ghpvc/?username=saifali-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 About Me
 
-I'm **Saif Ali**, a **Software Engineer, AI Automation Specialist, and Full-Stack Developer** passionate about building **AI-powered web applications, intelligent automation systems, and cross-platform mobile applications** that solve real-world business challenges.
+I'm **Saif Ali**, a **Software Engineer, AI Automation Specialist, and Full-Stack Developer** based in **Islamabad, Pakistan** 🇵🇰.
 
-I specialize in combining **Artificial Intelligence, Full-Stack Development, and Mobile Technologies** to help startups and businesses **scale, automate workflows, and grow faster through technology**.
+I specialize in building **AI-powered web applications, intelligent automation systems, data-driven platforms, and cross-platform mobile applications** that help startups and businesses automate processes, improve efficiency, and scale faster.
 
-* 🔭 Currently building **AI Automation Systems, AI Agents, SaaS Products, MERN Stack Applications, and Flutter Mobile Apps**
-* 🌱 Continuously learning **Machine Learning, Deep Learning, LLM Applications, AI Agents, Cloud Computing, and System Design**
-* 👯 Open to collaborate on **AI Research, Open-Source Projects, SaaS Platforms, and Innovative Startup Products**
-* 💬 Ask me about **AI Automation, AI Chatbots, MERN Stack, Flutter, Full-Stack Development, APIs, and Cloud Technologies**
-* 🎯 Mission: Helping businesses **automate processes, improve efficiency, and transform ideas into intelligent digital products**
-* ⚡ Fun Fact: I enjoy creating **AI-powered products that bridge the gap between cutting-edge technology and real-world applications.**
+I have worked across **Artificial Intelligence, Computer Vision, Data Intelligence, Full-Stack Development, Research Engineering, and AI-powered E-Commerce Solutions**, delivering practical solutions and serving businesses through technology and automation.
+
+* 🔭 Currently working as **Web Data Extraction & Automation Specialist** at **Leadfuzion LLC**
+* 🤖 Building **AI Agents, AI Automation Systems, SaaS Platforms, and Intelligent Business Solutions**
+* 🌱 Learning **LLMs, Generative AI, Cloud Computing, System Design, and Advanced AI Architectures**
+* 👯 Open to collaborating on **AI Research, Open Source, Automation Projects, and Innovative Startups**
+* 💬 Ask me about **Python, AI, MERN Stack, Flutter, Full-Stack Development, Web Scraping, Automation, APIs, and Cloud Technologies**
+* ⚡ Fun Fact: I enjoy transforming complex ideas into intelligent products that solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages & Frameworks
+### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,java,cpp,react,nextjs,nodejs,express,mongodb,firebase,flutter,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,java,cpp" />
 </p>
 
-### Artificial Intelligence & Automation
+### 🌐 Full-Stack Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind,bootstrap" />
 </p>
 
-* 🤖 AI Automation & AI Agents
-* 🧠 Machine Learning & Deep Learning
-* 💬 AI Chatbots & Conversational AI
-* 🔗 API Integrations & Workflow Automation
-* 📊 Data Processing & Intelligent Systems
-* ⚡ LLM Applications & AI-Powered Solutions
-
-### Cloud & DevOps
+### 📱 Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
-### Databases & Tools
+### 🤖 Artificial Intelligence & Automation
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* AI Agents
+* AI Chatbots
+* Workflow Automation
+* Web Scraping & Data Extraction
+* Data Intelligence
+* Predictive Systems
+* Intelligent Automation
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel" />
+</p>
+
+### 🗄️ Databases & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,postman,vscode,figma" />
@@ -52,31 +81,44 @@ I specialize in combining **Artificial Intelligence, Full-Stack Development, and
 
 ---
 
+## 💼 Experience
+
+* 💼 Web Data Extraction & Automation Specialist — Leadfuzion LLC
+* 🚀 AI-Powered E-Commerce Project Lead — Aurora Nexus (Pvt) Ltd
+* 🔬 Software Engineer Researcher — Livingston Research
+* 🤖 Artificial Intelligence & Computer Vision Intern — Arch Technologies
+* 🌐 Full-Stack Development Intern — Digital Empowerment Network
+* 💻 Web Development Intern — Prodigy InfoTech
+
+---
+
+## 🏆 Certifications & Achievements
+
+* 🏅 IBM Data Science Professional Certificate
+* 🏅 Python for Data Science, AI & Development
+* 🏅 Hitech Olympiad Advanced Programming
+* 🥈 Runner-Up — RWU Rising Pakistan Tech Quiz Competition
+* 🥇 Winner — Techon 22 Pitch An Idea
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saifali-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifali-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saifali-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifali-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saifali-code&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifali-code&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
+  <img src="https://streak-stats.demolab.com?user=saifali-code&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifali-code&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifali-code&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -103,14 +145,15 @@ I specialize in combining **Artificial Intelligence, Full-Stack Development, and
 
 ---
 
-## 💡 Current Focus
+## 🎯 Current Focus
 
-* 🚀 Building AI-Powered SaaS Products
-* 🤖 Developing AI Automation Systems & AI Agents
-* 🌐 Creating Scalable Full-Stack Web Applications
-* 📱 Building Cross-Platform Mobile Applications with Flutter
-* 🔗 Integrating APIs and Intelligent Business Workflows
-* 📚 Exploring Advanced AI, Cloud Computing, and System Architecture
+* 🤖 AI Agents & AI Automation Systems
+* 🚀 AI-Powered SaaS Products
+* 🌐 Scalable Full-Stack Web Applications
+* 📱 Cross-Platform Mobile Applications
+* 🔗 APIs & Intelligent Workflow Automation
+* ☁️ Cloud Computing & System Architecture
+* 📊 Data Engineering & Information Extraction
 
 ---
 
