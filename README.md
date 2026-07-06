@@ -15,7 +15,7 @@ Software Engineer | Building AI-Powered Mobile & Web Solutions | Full-Stack Deve
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm **Saif Ali**, a **Software Engineer, AI Automation Specialist, and Full-Stack Developer** based in **Islamabad, Pakistan** 🇵🇰.
 
