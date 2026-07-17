@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Asslam o Alaikum 👋 Im Saif Alii</h1>
+<h1 align="center">Asslam o Alaikum 👋 Im Saif Ali</h1>
 <h3 align="center">
 Software Engineer | Building AI-Powered Mobile and Web Solutions | Full-Stack Developer | AI Automation Specialist | Helping Startups & Businesses Scale, Automate & Grow Fasters
 </h3>
