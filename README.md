@@ -4,7 +4,7 @@
 
 <h1 align="center">Asslam o Alaikum 👋 Im Saif Ali</h1>
 <h3 align="center">
-Software Engineerr | Building AI-Powered Mobile and Web Solutions | Full-Stack Developer | AI Automation Specialist | Helping Startups & Businesses Scale, Automate & Grow Fasters
+Software Engineer | Building AI-Powered Mobile and Web Solutions | Full-Stack Developer | AI Automation Specialist | Helping Startups & Businesses Scale, Automate & Grow Fasters
 </h3>
 
 <p align="center">
