@@ -531,9 +531,6 @@ A full-stack AI learning platform integrating Retrieval-Augmented Generation, se
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/saifali-code/saifali-code/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
-
-> 💡 **Note:** The Contribution Snake requires a GitHub Actions workflow (`Platane/snk`) set up in a repo named exactly `saifali-code/saifali-code` to generate the SVG automatically. If the animation above doesn't render yet, add the workflow — instructions in the [snk repo](https://github.com/Platane/snk).
-
 ---
 
 <p align="center">
