@@ -484,7 +484,7 @@ A full-stack AI learning platform integrating Retrieval-Augmented Generation, se
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-pi-sage-11.vercel.app/api?username=saifali-code&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-pi-sage-11.vercel.app/api?username=saifalicode&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="180" src="https://streak-stats.demolab.com?user=saifali-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
