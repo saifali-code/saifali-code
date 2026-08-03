@@ -46,7 +46,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Saif Ali**, a **Full Stack Developer and Data Scientist** based in Islamabad, Pakistan, with 3+ years of hands-on experience designing, building, and deploying scalable, production-grade software across both the **MERN stack** and **Python-based AI/ML systems**. I move comfortably across the full pipeline — from exploratory data analysis and model training to building the REST/GraphQL APIs and React interfaces that put that intelligence in front of real users.
+I'm **Saif Alii**, a **Full Stack Developer and Data Scientist** based in Islamabad, Pakistan, with 3+ years of hands-on experience designing, building, and deploying scalable, production-grade software across both the **MERN stack** and **Python-based AI/ML systems**. I move comfortably across the full pipeline — from exploratory data analysis and model training to building the REST/GraphQL APIs and React interfaces that put that intelligence in front of real users.
 
 My work centers on **Generative AI, Retrieval-Augmented Generation (RAG), LLM integration, and predictive analytics**, paired with clean full-stack architecture, cloud deployment, and automated CI/CD workflows. I've reduced manual processing effort by up to **80%**, accelerated delivery timelines by **3×**, and consistently shipped models with **94%+ accuracy** across research, SaaS, and enterprise projects.
 
