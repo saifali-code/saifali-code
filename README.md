@@ -52,7 +52,7 @@ My work centers on **Generative AI, Retrieval-Augmented Generation (RAG), LLM in
 
 ---
 
-## 🚀 Open To
+## 🚀 Open To work any where 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer%20Roles-1A3C5E?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1520" />
