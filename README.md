@@ -44,7 +44,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Mee
 
 I'm **Saif Ali**, a **Full Stack Developer and Data Scientist** based in Islamabad, Pakistan, with 3+ years of hands-on experience designing, building, and deploying scalable, production-grade software across both the **MERN stack** and **Python-based AI/ML systems**. I move comfortably across the full pipeline — from exploratory data analysis and model training to building the REST/GraphQL APIs and React interfaces that put that intelligence in front of real users.
 
